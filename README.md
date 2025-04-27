@@ -78,9 +78,9 @@ BeWell is a mobile app that promotes mental wellness by helping users take small
 
 | Keep up with your friends | Share your wellness experience |
 |:-------------------------:|:------------------------------:|
-| ![Gallery Image 1](assets/gallery.jpg) | ![Gallery Image 2](assets/gallery (1).jpg) |
+| ![Gallery Image 1](assets/gallery.jpg) | ![Gallery Image 2](assets/gallery2.jpg) |
 
 | Weekly Check-In | Add Friends |
 |:---------------:|:-----------:|
-| ![Gallery Image 3](assets/gallery (2).jpg) | ![Gallery Image 4](assets/gallery (3).jpg) |
+| ![Gallery Image 3](assets/gallery3.jpg) | ![Gallery Image 4](assets/gallery4.jpg) |
 
